@@ -9,14 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [ankushdhankhar.vercel.app](ankushdhankhar.vercel.app)
 
-- 📫 How to reach me **ankushdhankhar3002@gmail.com**
+- 📫 Mail me at **ankushdhankhar3002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_ankushdhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ankushdhankhar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankush-dhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush-dhankhar" height="30" width="40" /></a>
 <a href="https://instagram.com/_ankushdhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankushdhankhar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ankush_03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankush_03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankushdhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankushdhankhar" height="30" width="40" /></a>
 </p>
 
