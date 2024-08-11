@@ -21,13 +21,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ankushdhankhar" width="25"  />
   </a>
   <a href="https://linkedin.com/in/ankush-dhankhar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush-dhankhar" width="25" style="margin-right: 10;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush-dhankhar" width="25" />
   </a>
   <a href="https://instagram.com/_ankushdhankhar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankushdhankhar" width="25" style="margin-right: 10;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankushdhankhar" width="25"  />
   </a>
   <a href="https://www.leetcode.com/ankushdhankhar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankushdhankhar" width="25" style="margin-right: 10;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankushdhankhar" width="25" />
   </a>
 </p>
 
