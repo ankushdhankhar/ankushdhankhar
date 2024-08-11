@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankush Dhankhar</h1>
+<h1 align="center">Hi , I'm Ankush Dhankhar</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdhankhar&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdhankhar" /> </p>
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_ankushdhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ankushdhankhar" height="30" width="40" /></a>
+<a href="https://twitter.com/_ankushdhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ankushdhankhar" width="30" /></a>
 <a href="https://linkedin.com/in/ankush-dhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush-dhankhar" height="30" width="40" /></a>
 <a href="https://instagram.com/_ankushdhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankushdhankhar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankushdhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankushdhankhar" height="30" width="40" /></a>
